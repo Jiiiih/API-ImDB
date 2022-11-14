@@ -20,7 +20,8 @@ git clone https://github.com/Jiiiih/API-ImDB.git
 cd API-ImDB
 ```
 ### Get ImDb API key
-1. [[https://imdb-api.com/][Create API account]]
+1. <a href="https://imdb-api.com" target="_blank">Create ImDb's API account</a>
+
 2. get the api key from the profile section 
 
 ### Setup the .env file 
